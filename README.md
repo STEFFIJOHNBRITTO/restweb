@@ -889,8 +889,8 @@ admin.html
 
 ## OUTPUT:
 
-     ![alt text](<Screenshot 2024-12-13 234043.png>) 
-     ![alt text](<Screenshot 2024-12-13 233927.png>) 
+     ![alt text](home-2.jpg)
+     
      ![alt text](<Screenshot 2024-12-13 234124.png>)
      ![alt text](<Screenshot 2024-12-13 234149.png>)
 
