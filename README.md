@@ -29,7 +29,6 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-
 home.html
 
 <!DOCTYPE html>
@@ -207,7 +206,6 @@ home.html
         <nav>
             <a href="home.html">Home</a>
             <a href="menu.html">Menu</a>
-            <a href="reservation.html">Reservations</a>
             <a href="contact.html">Contact</a>
             <a href="admin.html">Administration</a>
         </nav>
