@@ -889,10 +889,10 @@ admin.html
 
 ## OUTPUT:
 
-     ![alt text](home-2.jpg)
-     
-     ![alt text](<Screenshot 2024-12-13 234124.png>)
-     ![alt text](<Screenshot 2024-12-13 234149.png>)
+   ![alt text](home-5.jpg)
+   ![alt text](menu.jpg)
+   ![alt text](contact...jpg)
+   ![alt text](admin.jpg)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
