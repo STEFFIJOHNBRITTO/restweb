@@ -238,7 +238,7 @@ home.html
     </section>
 
     <footer>
-        <p>&copy; 2024 URBAN EATS. All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; Designed and Developed by STEFFI J. | <a href="#">Privacy Policy</a></p>
     </footer>
 
 </body>
@@ -470,7 +470,7 @@ menu.html
     </div>
 
     <footer>
-        <p>&copy; 2024 URBAN EATS. All rights reserved. | <a href="home.html">Back to Home</a></p>
+        <p>&copy; Designed and Developed by STEFFI J. | <a href="home.html">Back to Home</a></p>
     </footer>
 
 </body>
@@ -679,7 +679,7 @@ contact.html
     </section>
 
     <footer>
-        <p>&copy; 2024 URBAN EATS. All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; Designed and Developed by STEFFI J. | <a href="#">Privacy Policy</a></p>
     </footer>
 
 </body>
@@ -829,7 +829,7 @@ admin.html
 <body>
 
     <header>
-        <h1>OLIVE GARDEN</h1>
+        <h1>URBAN EATS</h1>
         <nav>
             <a href="home.html">Home</a>
             <a href="menu.html">Menu</a>
@@ -876,7 +876,7 @@ admin.html
     </div>
 
     <footer>
-        <p>&copy; 2024 OLIVE GARDEN. All rights reserved. | <a href="home.html">Back to Home</a></p>
+        <p>&copy; Designed and Developed by STEFFI J. | <a href="home.html">Back to Home</a></p>
     </footer>
 
 </body>
@@ -887,10 +887,11 @@ admin.html
 
 ## OUTPUT:
 
-   ![alt text](home-5.jpg)
-   ![alt text](menu.jpg)
-   ![alt text](contact...jpg)
-   ![alt text](admin.jpg)
+   ![alt text](<Screenshot (72).png>)
+   ![alt text](<Screenshot (71).png>)
+   ![alt text](<Screenshot (70).png>)
+   ![alt text](<Screenshot (69).png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
